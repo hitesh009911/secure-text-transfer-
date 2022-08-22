@@ -65,6 +65,12 @@ This implementation can be explained in two parts
 **src/stand-alone-application/thrain.py**: This file acts as a mediator and connect the main program with other code files.</br>
 **src/stand-alone-application/main.py**: This file deals with the GUI. It is the main file [yeah, trust me!].</br>
 
+In Gui image spaces for keys to insert can be generated with using jupyterbook with file diffh.py 
+
+Download Anaconda here ~ https://www.anaconda.com/products/distribution
+
+After download and installed ,select install jupyterbook and create a new file and copy content and paste it then excute it 
+
 ### web-application
 ![web-application]
 
