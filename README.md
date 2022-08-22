@@ -54,7 +54,7 @@ This implementation can be explained in two parts
 
 ### stand-alone-application
 
-![stand-alone-application](secure-text-transfer-/dump/images/GUI.png)
+![stand-alone-application](/dump/images/GUI.png)
 
 * This portion deals with encryption and decryption of file
 * The file is encrypted using AES algorithm
